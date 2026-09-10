@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44941174190375343987327566550204051010",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral  kollateral ligaman normaldir. medial kollateral ligaman çevresinde sıvı artışı izlendi(grade i sprain).distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküste grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste grade ii dejenerasyon izlendi. medial menisküste grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.45251306032215692953561852960585282987",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament. there is thickening and increased signal involving the distal posterior cruciate ligament with partial tear'",
+    "MCL": "Positive: matched 'medial collateral ligament with distal avulsion of the superficial component which is retracted proximally and superficial to the pes anserine tendons compatible with a pseudostener lesion. there is also high-grade injur'",
+    "Medial Meniscus": "Positive: matched 'tear of the posterior root of the lateral meniscus. the medial meniscus'",
+    "Lateral Meniscus": "Positive: matched 'tear of the posterior root of the lateral meniscus'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone contusion'",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

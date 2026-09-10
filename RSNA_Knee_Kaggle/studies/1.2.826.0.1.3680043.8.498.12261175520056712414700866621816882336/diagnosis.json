@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12261175520056712414700866621816882336",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ, lateral kollateral ligaman normaldir. arka çapraz bağ komşuluğunda 15 mm çapında ve gastrokenimus  medial krus tendonu komşuluğunda 12 mm çapında ganglion kistleri izlenmiştir.medial kollateral ligaman çevresinde hafif sıvı artışı mevcuttur.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman çevresinde hafif sıvı artışı mevcuttur.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsızlık yoktur.patellar kıkırdakta medial fasette bütünlük kaybı, yer yer kemik yapıda milimetrik kist ve kemik iliği ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküste grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste grade ii dejenerasyon mevcuttur. medial menisküste grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. retinaküler devamsızlık yoktur.patellar kıkırdakta medial fasette bütünlük kaybı, yer yer kemik yapıda milimetrik kist ve kemik iliği ödemi izlenmiştir (grade 4'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

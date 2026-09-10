@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.33620268340279901383196638228030589893",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'руптура на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'руптура на предната кръстна връзка с давност. задната кръстна връзка е интактна. колатерални лигаменти – без особености. визуализират се дегенеративни промени в двата менискуса – при латералния менискус в областта на предния рог, докато медиалният менискус е дегенерирал изцяло. задният рог на  медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'руптура на предната кръстна връзка с давност. задната кръстна връзка е интактна. колатерални лигаменти – без особености. визуализират се дегенеративни промени в двата менискуса – при латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ставен излив'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'бекерова киста'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

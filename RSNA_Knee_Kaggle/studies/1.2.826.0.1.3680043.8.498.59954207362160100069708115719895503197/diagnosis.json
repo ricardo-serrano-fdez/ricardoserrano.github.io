@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59954207362160100069708115719895503197",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'voorste kruisband. 3. \"ramp lesion\" in de posterieure hoorn van de mediale meniscus. 4. r adiaire scheur'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'mediale meniscus : ramp lesion. - kraakbeen: volledige dikte kraakbeendefect later o centraal op de mediale femurcondyl met subchondraal oedeem: osteochondraal letsel'",
+    "Lateral Meniscus": "Positive: matched 'laterale meniscus met meniscale flap lateraal intercondylair . - kraakbeen: parti ële dikte kraakbeendefect posterocentraal op het gewrichtsvlak van het lateraal tibiaplateau. - lcl: normaal. kruisbanden: - acl: hooggradige parti ële diktescheur'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'bakercyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.96559819562317669526803257835398470484",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, των χιαστών και πλαγίων συνδέσµων, του αρθρικού χόνδρου, του οστικού µυελού και του εκτατικού µηχανισµού δεν παρατηρούνται αξιόλογα ευρήµατα. μικρή συλλογή υγρού παρατηρείται ενδαρθρικά. μικρή συνοβιακή κύστη baker παρά την έσω κεφαλή του γαστροκνηµίου µυός. παθολογικό σήµα στον έσω µηνίσκο, δεν εκτείνεται στην αρθρική επιφάνεια και αποδίδεται σε απλή εκφύλιση χωρίς παρουσία ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

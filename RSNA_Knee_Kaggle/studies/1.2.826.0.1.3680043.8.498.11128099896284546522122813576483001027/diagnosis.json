@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11128099896284546522122813576483001027",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior hornu ve gövde kesimde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior, posterior hornu ve gövde kesimde grade ii dejenerasyon izlenmiştir. medial menisküs posterior hornu ve gövde kesimde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.suprapatellar bursada minimal sıvı artışı izlendi.diz eklemini oluşturan kemik yapıların sinyal intensiteleri doğaldır.gastroknemius medial krus proksimali insersio düzeyinde tendonda tendinozis ile uyumlu sinyal değişikliği ve peritendinöz hafif sıvı artışı izlenmektedir. sonuç: medial menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10876177342063734507664188801203192617",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'mediale meniscus met uitloper in de ondervlakte , uitbreidend naar het corpus met verplaatst fragment in de inferieure meniscale recessus met bijhorend oedeem van boord van het mediale tibiaplateau, reactioneel. muco ïde cyste onder de insertie van de posterieure kruisband, banaal. besluit: - degeneratieve scheur'",
+    "Lateral Meniscus": "Positive: matched 'laterale meniscus met kleine parameniscale cyste. - meer uitgebreide degeneratieve scheur'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'gewrichtsvocht'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.75168480371573015758963049782687952716",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligamanda grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz eklem mesafesinden 5.5 mm mediale ekstrüdedir. menisküste valüm kaybı, maserasyon ve kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior-posterior hornu ve gövde kesiminde grade ii dejenerasyon izlenmiştir. medial menisküs diz eklem mesafesinden 5.5 mm mediale ekstrüdedir. menisküste valüm kaybı, maserasyon ve kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir. diz eklemini oluşturan her üç kompartmanda santral-marjinal osteofit formasyonu izlenmiştir.tibiofemoral eklem medialde eklem aralığında daralma-ekleme komşu kemik yüzlerde subkondral alanda hafif skleroz ve ödem izlenmiştir. bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlenmiştir. bulgular dejeneratif artrit lehine yorumlanmıştır.popliteal fossada femur suprakondiler düzey posterosüperior komşuluğunda 2 cm çaplı ossifiye lezyon izlenmiştir. popliteus tendon komşuluğunda da sıvı artışı ve büyüğü 1 cm çaplı ossifiye nodüler lezyonlar izlenmiştir.sonuç:gonartroz.medial menisküste mediale ekstrüzyon, maserasyon ve kompleks yırtık.lateral menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

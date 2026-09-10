@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38935694477580522005505074220300062204",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 1,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'mcl:  mild thickening, consistent with chronic sprain'",
+    "Medial Meniscus": "Positive: matched 'medial meniscus: oblique tear'",
+    "Lateral Meniscus": "Positive: matched 'lateral meniscus: the lateral meniscus is peripherally extruded and macerat'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Positive: matched 'lateral compartment articular cartilage:  grade 4'",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'small joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

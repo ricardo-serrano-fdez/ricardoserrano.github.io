@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10536557774352716497356905292652597953",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'acl rupture'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'ruptured. there is anterior translation of the lateral tibial plateau in relation to femur. minor residual bone contusions are seen in the weightbearing portion of the lateral femoral condyle and posterior aspect of the tibial plateau.  normal pcl, mcl and lcl. normal extensor mechanism.  there is a type 1 ramp lesion of the posterior horn of the medial meniscus'",
+    "Lateral Meniscus": "Positive: matched 'ruptured. there is anterior translation of the lateral tibial plateau in relation to femur. minor residual bone contusions are seen in the weightbearing portion of the lateral femoral condyle and posterior aspect of the tibial plateau.  normal pcl, mcl and lcl. normal extensor mechanism.  there is a type 1 ramp lesion of the posterior horn of the medial meniscus. normal lateral meniscus'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar chondromalacia'",
+    "Effusion": "Positive: matched 'mild knee effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone contusion'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

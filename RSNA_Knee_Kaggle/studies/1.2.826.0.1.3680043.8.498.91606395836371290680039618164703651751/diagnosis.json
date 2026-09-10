@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.91606395836371290680039618164703651751",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament. no normal intact fibers are identified. there is a borderline anterior tibial drawer measured in the lateral joint compartment at about 5 mm. there are bone contusions seen at the lateral femoral sulcus in the posterior aspect of the lateral tibial plateau consistent with kissing contusions related to a pivot shift mechanism of injur'",
+    "MCL": "Positive: matched 'medial collateral ligament at its origin along its course proximal to the medial joint line consistent with grade 2 sprain'",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'chondromalacia patella'",
+    "Effusion": "Positive: matched 'large knee effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone contusion'",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

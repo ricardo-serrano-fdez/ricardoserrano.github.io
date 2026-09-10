@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.89445342796957655182687412965056270903",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.distal kuadriseps tendonlar normaldir. retinaküler devamsızlık yoktur.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmektedir.popliteal fossada 7,5x3cm boyutlu baker kisti izlendi.patella lateral fasette subkondral alanda ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz eklem mesafesinden 5mm  mediale ekstrüdedir.menisküste volüm kaybı maserasyon ve kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior ve posterior hornu ve gövde kesimde grade ii dejenerasyon izlendi.anterior çapraz bağda miksoid dejenerasyona sekonder sinyal değişikliği izlendi.arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.distal kuadriseps tendonlar normaldir. retinaküler devamsızlık yoktur.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmektedir.popliteal fossada 7,5x3cm boyutlu baker kisti izlendi.patella lateral fasette subkondral alanda ödem kartilajda incelme izlendi.diz eklemini oluşturan her üç kompartmanda santral -marjinal osteofit formasyonu izlendi.tibia femoral eklem medialde eklem aralığında daralma ekleme komşu kemik yüzlerde subkondral hafif skleroz ödem ve milimetrik kistler izlendi.bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlenmektedir.sonuç: gonartroz, medial menisküste medial ekstrüzyon, volüm kaybı maserasyon ve kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar bursit, diz ekleminde sinovit, popliteal fossada baker kisti, patella lateral fasette grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

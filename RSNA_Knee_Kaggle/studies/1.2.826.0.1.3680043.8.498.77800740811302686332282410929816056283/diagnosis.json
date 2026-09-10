@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.77800740811302686332282410929816056283",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağda diffüz sinyal artışı mevcuttur (mukoid dejenerasyon). arka çapraz bağ, medial kollateral ligaman normaldir. lateral eklem aralığında komşu femur ve tibiada tam kat kıkırdak kaybı mevcuttur. patella femoral eklem aralığında marjinal osteofitler görüldü. tibia eminencia posteriorda milimetrik subkondral dejeneratif kistik oluşumlar izlendi.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir. lateral eklem aralığında komşu femur ve tibiada tam kat kıkırdak kaybı mevcuttur. patella femoral eklem aralığında marjinal osteofitler görüldü. tibia eminencia posteriorda milimetrik subkondral dejeneratif kistik oluşumlar izlendi.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsızlık yoktur.diz ekleminde hafif mayii artışı izlendi.diz eklemini oluşturan kemik yapıların sinyal intensiteleri doğaldır.sonuç: lateral menisküs ve medial menisküste yırtık'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs gövde kesiminde tibial eklem yüzeyi ile ilişkili horizontal yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs gövde ve arka boynuzda kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patella femoral eklem aralığında marjinal osteofitler görüldü. tibia eminencia posteriorda milimetrik subkondral dejeneratif kistik oluşumlar izlendi.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsızlık yoktur.diz ekleminde hafif mayii artışı izlendi.diz eklemini oluşturan kemik yapıların sinyal intensiteleri doğaldır.sonuç: lateral menisküs ve medial menisküste yırtıklar, lateral eklem aralığında grade 4'",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

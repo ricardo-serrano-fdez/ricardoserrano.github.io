@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.65530757406333318449497070048719890442",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιου χιαστού συνδέσµου. - απο τον έλεγχο του έξω µηνίσκου, του οπίσθιου χιαστού και των πλάγιων συνδέσµων δεν παρατηρούνται παθολογικά ευρήµατα. - παρατηρούνται περιοχές ολικού και υφολικού πάχους απώλειας του χόνδρου του έσω µηριαίου και του έσω κνηµιαίου κονδύλου καθώς και περιοχές ρήξη'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου µε συνοδό υπεξάρθηµα. - αναγνωρίζεται µυξοειδής εκφύλιση του πρόσθιου χιαστού συνδέσµου. - απο τον έλεγχο του έξω µηνίσκου, του οπίσθιου χιαστού και των πλάγιων συνδέσµων δεν παρατηρούνται παθολογικά ευρήµατα. - παρατηρούνται περιοχές ολικού και υφολικού πάχους απώλειας του χόνδρου του έσω µηριαίου και του έσω κνηµιαίου κονδύλου καθώς και περιοχές ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, του οπίσθιου χιαστού και των πλάγιων συνδέσµων δεν παρατηρούνται παθολογικά ευρήµατα. - παρατηρούνται περιοχές ολικού και υφολικού πάχους απώλειας του χόνδρου του έσω µηριαίου και του έσω κνηµιαίου κονδύλου καθώς και περιοχές ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

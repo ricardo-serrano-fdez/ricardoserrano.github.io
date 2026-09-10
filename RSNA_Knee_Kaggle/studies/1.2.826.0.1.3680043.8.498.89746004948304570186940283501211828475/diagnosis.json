@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.89746004948304570186940283501211828475",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ kronik rüptür'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir. dış yan bağ fibuler insersiyo düzeyinde ince kalibrededir.  i̇ç yan bağ bütünlüğü korunmuştur. i̇ç yan bağ derin ve yüzeyel komponentlerinde yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.50823279853002320074080586693604976784",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιος χιαστός σύνδεσµος παρουσιάζει χρονία ρήξη'",
+    "MCL": "Positive: matched 'έσω πλάγιος σύνδεσµος παρουσιάζει κάκωση'",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου ενώ συνυπάρχει και λέπτυνση του αρθρικού χόνδρου ( icrs stage iii) κατά τον έσω µηριαίο και έσω κνηµιαίο κόνδυλο. οίδηµα οστικού µυελού παρατηρείται στην οπίσθια έξω επίφυση της κνήµης ώς επί ήπιου οστικού µώλωπα (bone bruise). μικρά επιχείλια οστεόφυτα παρατηρούνται στο έσω διαµέρισµα του γόνατος. συµπέρασµα: 1. ευρήµατα εκφυλιστικής ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκος παρουσιάζει απλή εκφύλιση χωρίς ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone bruise'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

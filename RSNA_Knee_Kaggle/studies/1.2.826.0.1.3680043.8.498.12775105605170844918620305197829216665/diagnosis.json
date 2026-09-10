@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12775105605170844918620305197829216665",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağda mukoid dejenerasyon ile uyumlu kalınlaşma ve sinyal artımı izlenmiştir. arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.retropatellar ve femoral kartilajda kondromalazi ile uyumlu sinyal intensite değişiklikleri izlendi.diz eklem aralığı ve suprapatellar bursada efüzyon mevcuttur.diz eklem aralığı medial kompratmanda daha belirgin olmak üzere daralmış görünümde olup medial kompartmanda diz eklemi oluşturan kemik yapılarda kontüzyonel ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs gövde kesiminde bütünlük kaybı izlenmiş olup medial menisküs laterale ekstrüdedir.medial menisküs gövde-posterior horn düzeyinde kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior horn düzeyinde evre 2 intra meniskal dejenerasyon ile uyumlu sinyal intensite değişiklikleri izlendi.medial menisküs gövde kesiminde bütünlük kaybı izlenmiş olup medial menisküs laterale ekstrüdedir.medial menisküs gövde-posterior horn düzeyinde kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

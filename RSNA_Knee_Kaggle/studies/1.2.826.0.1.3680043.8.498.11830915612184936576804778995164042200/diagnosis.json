@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11830915612184936576804778995164042200",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral kollateral ligaman normaldir.medial kollateral ligamande periligamantöz ödem izlenmiştir.distal kuadriseps normaldir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligamande grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz ekleminde 5 mm mediale ekstrüdedir. menisküste volüm kaybı, posterior horn ve gövde kesiminde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior hornunda grade ii dejenerasyon izlenmiştir.medial menisküs diz ekleminde 5 mm mediale ekstrüdedir. menisküste volüm kaybı, posterior horn ve gövde kesiminde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

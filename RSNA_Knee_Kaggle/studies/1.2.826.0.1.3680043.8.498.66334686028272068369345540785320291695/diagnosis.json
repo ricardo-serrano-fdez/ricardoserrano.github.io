@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.66334686028272068369345540785320291695",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου. - μυξοειδής εκφύλιση παρατηρείται στον πρόσθιο χιαστό σύνδεσµο. - φυσιολογική είναι η απεικόνιση του έξω µηνίσκου, του οπίσθιου χιαστού και των πλαγίων συνδέσµων. - με φυσιολογικό σήµα ελέγχεται ο οστικός µυελός. - από τον έλεγχο του εκτατικού µηχανισµού δεν αναγνωρίζονται αξιόλογα παθολογικά ευρήµατα. - μέτρια συλλογή υγρού παρατηρείται ενδαρθρικά, που συνέχεται µε συνοβιακή κύστη baker κ.ο διαµέτρου 5εκ, η οποία εµφανίζει µικρορήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, του οπίσθιου χιαστού και των πλαγίων συνδέσµων. - με φυσιολογικό σήµα ελέγχεται ο οστικός µυελός. - από τον έλεγχο του εκτατικού µηχανισµού δεν αναγνωρίζονται αξιόλογα παθολογικά ευρήµατα. - μέτρια συλλογή υγρού παρατηρείται ενδαρθρικά, που συνέχεται µε συνοβιακή κύστη baker κ.ο διαµέτρου 5εκ, η οποία εµφανίζει µικρορήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

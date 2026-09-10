@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.14963472809950919852176661973255059069",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 1,
+    "Lateral OA": 1,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial collateral ligament (mcl): periligamentous edema'",
+    "Medial Meniscus": "Positive: matched 'medial meniscus: complex tear'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Lateral OA": "Positive: matched 'tricompartmental chondrosis'",
+    "PF OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Effusion": "Positive: matched 'joint effusion'",
+    "Synovitis": "Positive: matched 'synovial proliferation'",
+    "Baker's": "Positive: matched 'baker's cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'insufficiency fracture'"
+  },
+  "ground_truth": null
+}

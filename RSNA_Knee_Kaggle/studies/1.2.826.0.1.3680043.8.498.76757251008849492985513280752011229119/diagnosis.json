@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.76757251008849492985513280752011229119",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial collateral ligament injur'",
+    "Medial Meniscus": "Positive: matched 'medial meniscus extending to the body, which is peripherally extruded. there is irregular contour of the posterior horn and body of the meniscus, consistent with superimposed complex tear'",
+    "Lateral Meniscus": "Positive: matched 'tear posterior horn medial meniscus extending to the body, which is peripherally extruded. there is irregular contour of the posterior horn and body of the meniscus, consistent with superimposed complex tear. there is apical truncation of the medial meniscal body consistent with a superimposed partial radial tear. the anterior horn and posterior root are intact. the lateral meniscus'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar facet and fissuring of articular cartilage throughout the central to lateral femoral trochlea. focal full thickness'",
+    "Effusion": "Positive: matched 'joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker's cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

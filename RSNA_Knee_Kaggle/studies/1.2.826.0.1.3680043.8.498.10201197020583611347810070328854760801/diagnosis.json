@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10201197020583611347810070328854760801",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιου χιαστού συνδέσµου καθώς και το παθολογικό σήµα και διακοπή των ινών του κατα την εγγύς µοίρα του, στα πλαίσια υφολικής ρήξη'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου. - παρατηρείται εικόνα δισκοειδούς έξω µηνίσκου, χωρίς εικόνα ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, χωρίς εικόνα ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ενδαρθρική συλλογή'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Positive: matched 'bone bruise'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12219658385745696203053079500246399481",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'руптура на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'увреда  2а степен. дегенеративни промени в медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'увреда  2а степен. дегенеративни промени в медиалния менискус. колатерални лигаменти - със запазена цялост. патела – малки кисти субкортикално по задна стена,  хрущял на пателата - липсва ретинакулуми – б.о. визуализира се малка многокамерна бекерова киста на нивото на медиалната глава на м. гастрокнемиус с коронарен р-р 18/11мм. лимфедем в меките тъкани на коляното. заключение:  мр данни за тежки гонартрозни промени на дясната колянна става . хондропатия. мр данни за частична руптура с давност на предна кръстна връзка. bucket -handle лезия на предния рог на латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'бекерова киста'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

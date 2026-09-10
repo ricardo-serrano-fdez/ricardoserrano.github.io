@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.21389336408905524316915532623385847283",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου χωρίς ευρήµατα νέας ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου. από τον έλεγχο του έσω διαµερίσµατος σηµειούται µετεγχειρητικά ευρήµατα µερικής µηνισκεκτοµής και παθολογικής έντασης σήµατος στο οπίσθιο κέρας του έσω µηνίσκου χωρίς ευρήµατα νέας ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone bruise'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

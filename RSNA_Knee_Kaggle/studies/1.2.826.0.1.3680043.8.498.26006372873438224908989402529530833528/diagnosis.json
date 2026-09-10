@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.26006372873438224908989402529530833528",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'руптура на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'руптура на предната кръстна връзка с давност. самата връзка не се изобразява. нормално изобразяване на латералния менискус. нормално изобразяване на задната кръстна връзка. колатерални лигаменти – б.о. ретинакулуми – б.о. костите, формиращи лявата колянна става, са с нормална форма и сигнален интензитет. ставният хрущял на тибията, фемура и пателата е интактен. лигамент на пателата, сухожилие на м. квадрицепс феморис – б.о. поплитеална ямка – б.о. няма данни за ставен излив. заключение:  мр данни за bucket-handle лезия на медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'руптура на предната кръстна връзка с давност. самата връзка не се изобразява. нормално изобразяване на латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

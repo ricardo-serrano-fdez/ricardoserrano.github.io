@@ -1,0 +1,53 @@
+# Knee MRI Diagnostic Report
+**StudyInstanceUID**: `1.2.826.0.1.3680043.8.498.50287512028986928372350279452197816661`
+
+## FINDINGS:
+
+### OSSEOUS STRUCTURES:
+Alignment is anatomical. No acute fracture or bone bruise. Background marrow signal is normal without aggressive lesions.
+
+### JOINT SPACE:
+No joint effusion. No Baker's cyst. Normal synovial membrane.
+
+### MEDIAL COMPARTMENT:
+- **Medial meniscus**: Normal in morphology and signal without tear.
+- **Medial compartment cartilage**: Preserved articular cartilage.
+
+### LATERAL COMPARTMENT:
+- **Lateral meniscus**: Normal in morphology and signal without tear.
+- **Lateral compartment cartilage**: Preserved articular cartilage.
+
+### PATELLOFEMORAL COMPARTMENT:
+- **Patellofemoral compartment cartilage**: Preserved patellofemoral articular cartilage.
+
+### CRUCIATE LIGAMENTS:
+- **Anterior cruciate ligament (ACL)**: Normal with both bundles intact.
+- **Posterior cruciate ligament (PCL)**: Normal.
+
+### COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+- **Medial collateral ligament (MCL)**: Normal.
+- **Lateral collateral ligament (LCL) complex**: Normal.
+- **Posterolateral corner structures**: Normal.
+
+### EXTENSOR MECHANISM:
+- **Distal quadriceps tendon**: Normal without tendinosis or tear.
+- **Patella tendon**: Normal without tendinosis or tear.
+- **Medial patellofemoral ligament (MPFL) and patellar retinacula**: Normal.
+- **Patellofemoral tracking**: Normal.
+
+### MUSCLES/TENDONS:
+No acute muscle strain or muscle atrophy. Visualized tendons intact.
+
+### SOFT TISSUES:
+Normal surrounding soft tissues and neurovascular bundles.
+
+---
+
+## IMPRESSION:
+1.	No acute osseous, ligamentous, or meniscal abnormality.
+
+---
+### Source Raw Report:
+```text
+Patellofemoral eklem osteoartriti patella medyal faseti ve trokleanın santraline lokalize kondral kalınlığın%50'sine ulaşan kıkırdak kaybı ve subkortikal medüller fibrokistik-fibrovasküler değişiklikler ile karakterize. Patellar tendonun patellaya yapışma yerinde fokal tendonozis. Bunun dışında ekstensör mekanizma korunmuş (kuadriseps tendonu ve patellar tendon, patella ve yerleşimi, femoral troklear oluk ve patellofemoral bağlar normal). Femur medyal kondilin posteromedyal köşesi düzeyindeki fokal bağ dokusu ödemi posteromedyal sürtünmeyi temsil edebilir. Diz eklemi içi sıvı miktarı hafif artmış. Çapraz ve yan bağlar normal. Posterolateral  köşe yapıları korunmuş. Diskoid lateral menisküs. Bunun dışında menisküsler normal.
+```

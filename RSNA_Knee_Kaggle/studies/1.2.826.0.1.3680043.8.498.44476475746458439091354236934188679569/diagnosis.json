@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44476475746458439091354236934188679569",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 1,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'tear of the body and posterior horn of the medial meniscus'",
+    "Lateral Meniscus": "Positive: matched 'tear of the body and posterior horn of the medial meniscus with a full-thickness radial component of the body and a superiorly displaced component adjacent to the posterior aspect of the medial femoral condyle (see image snap shot). intact lateral meniscus'",
+    "Medial OA": "Positive: matched 'medial femoral condyle (see image snap shot). intact lateral meniscus.  normal appearance of the distal biceps femoris tendon, distal iliotibial band and pes anserine tendons. small ganglion around the popliteus tendon.  intact extensor mechanism. no evidence of fat pad impingement.  high-grade chondral thinning in the weightbearing portion of the medial tibiofemoral compartment. focal high-grade chondropathy in the lateral tibial condyle with minor underlying bone stress change. high-grade chondral thinning and full-thickness'",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar facets. full-thickness'",
+    "Effusion": "Positive: matched 'large joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

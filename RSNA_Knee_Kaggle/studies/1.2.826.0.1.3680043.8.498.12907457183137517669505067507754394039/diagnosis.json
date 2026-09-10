@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12907457183137517669505067507754394039",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'руптура на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'руптура на предната кръстна връзка. нормално представена задна кръстна връзка. частична увреда на медиалния колатерален лигамент, който е с повишен сигнален интензитет в горния си сегмент.  изобразява се увреда в задния рог на медиалния менискус'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ставен излив'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

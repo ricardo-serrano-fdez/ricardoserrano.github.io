@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.15103255966832759925770334719703425755",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου, µε λέπτυνση του αρθρικού χόνδρου (icrs grade iιι) και επιχείλια οστεόφυτα. - φυσιολογικοί απεικονίζονται οι πλάγιοι σύνδεσµοι και οι χιαστοί σύνδεσµοι. - από τον έλεγχο του πρόσθιου διαµερίσµατος, παρατηρούνται µικρές διαβρώσεις του αρθρικού χόνδρου στην έσω τροχιλία. - παρατηρείται µεγάλη ενδαρθρική συλλογή υγρού µε λαχνόµορφες προσεκβολές (φυλλόµορφο λίπωµα - lipoma arborescens). - μικρή συνοβιακή κύστη στην έσω γνιακή κοιλότητα. - στο έλυτρο του ιγνυακού τένοντα, παρατηρείται τενοντοελυτρίτιδα, υµενίτιδα και ξένο σώµα 12mm. - επικουρικό οστάριο οs fabella. συμπερασμα: - εκφυλιστική οστεοαρθρίτιδα έσω και έξω διαµέρίσµατος µε εκφυλιστική ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, µε διάβρωση του αρθρικού χόνδρου (icrs grade iv στο κνηµιαίο πλατώ), επιχείλια οστεόφυτα και µικρής έκτασης υποχόνδρινο οστεοµυελικό οίδηµα στην πρόσθια µοίρα του έξω κνηµιαίου κονδύλου. - από τον έλεγχο του έσω διαµερίσµατος παρατηρούνται εκφυλιστική ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ενδαρθρική συλλογή'",
+    "Synovitis": "Positive: matched 'lipoma arborescens'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

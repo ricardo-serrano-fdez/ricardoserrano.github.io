@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.38528511947818361078957998546327084024",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral  kollateral ligaman normaldir.medial kollateral ligamanda periligamentöz ödem izlenmiştir (grade i sprain).distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligamanda grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküste mediale ekstrüzyon, kök yırtığı ve grade ii meniskopati .gastroknemius medial krus tendonunda parsiyel yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir.  medial menisküste mediale 3,5 mm ekstrüzyon, meniskal kök yırtığı, posterior horn ve gövde kesiminde ise grade ii dejenerasyon izlenmektedir. ön çapraz bağ ve arka çapraz bağ, lateral  kollateral ligaman normaldir.medial kollateral ligamanda periligamentöz ödem izlenmiştir (grade i sprain).distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.prepateller cilt altı yağ dokuda ödem izlenmiştir. gastronekmius medial krus proksimal insersio düzeyinde tendonda milimetrik parsiyel yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.prepateller cilt altı yağ dokuda ödem izlenmiştir. gastronekmius medial krus proksimal insersio düzeyinde tendonda milimetrik parsiyel yırtık ve tendinozis ile uyumlu sinyal değişikliği izlenmiştir. suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir. tibiofemoral eklem medialde eklem aralığında hafif daralma, ekleme komşu femoral ve tibial kartilajlarda fokal incelme izlenmiştir. tibia medial platoda subkondral milimetrik kistler izlendi.femur medial kondilde yaygın kemik iliği ödemi izlenmiştir. tanımlanan ödem sahasında subkondral alanda 11x5 mm boyutlu, pd ve t1  imajda hipointens görünüm izlenmekte olup osteokondral defekt lehine yorumlandı.popliteal fossada 5x2 cm boyutlu baker kisti izlenmiştir. tibiofibular eklem posterior komşuluğunda periartiküler 2x1.5 cm boyutlu ganglion kisti izlenmiştir.sonuç:tibiofemoral eklem medialinde hafif dejeneratif artrit bulguları.femur medial kondilde yaygın kemik iliği ödemi ve subkondral alanda osteokondral defekt .medial menisküste mediale ekstrüzyon, kök yırtığı ve grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

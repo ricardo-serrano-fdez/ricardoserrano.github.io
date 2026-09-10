@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.60931716414402855657852057585917605786",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz ekleminde 4,5mm mediale ekstrüdedir. menisküste maserasyon , volüm kaybı ve kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior -posterior hornu ve gövde kesiminde grade ii dejenerasyon izlendi.anterior çapraz bağda mukoid dejenerasyona sekonder kalınlaşma ve sinyal artışı izlendi.arka çapraz bağ, lateral  kollateral ligaman normaldir.medial kollateral ligamende periligamentöz ödem izlendi ( grade i sprain ).patella medial fasette kartilaj bütünlüğünde kayıp izlendi. lateral fasette kartilajda incelme, subkondral kemik iliği ödemi izlendi.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlendi.femur medial kondil postero-süperior kesim komşuluğunda ekstraartiküler yerleşimli 2,5x1,5 cm boyutlu ganglion kisti izlendi.diz eklemi kapsülü posteriorunda yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patella medial fasette kartilaj bütünlüğünde kayıp izlendi. lateral fasette kartilajda incelme, subkondral kemik iliği ödemi izlendi.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlendi.femur medial kondil postero-süperior kesim komşuluğunda ekstraartiküler yerleşimli 2,5x1,5 cm boyutlu ganglion kisti izlendi.diz eklemi kapsülü posteriorunda yırtık ve yırtık ile ilişkili 2x1,5cm boyutlu ganglion kisti izlendi.tibia interkondiler eminenc anteriorunda anterior çapraz bağ yapışma yeri düzeyinde 1cm çaplı subkortikal kist izlendi.peripatellar cilt altı yağ dokuda ödem izlendi.tibia femoral eklem medialde eklem aralığında daralma , ekleme komşu kemik yüzlerde subkondral skleroz ödem ve dejeneratif kistler izlendi. bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlendi. bulgular dejeneratif artrit lehine yorumlandır.femur lateral kondilde subkondral alanda 6x4mm boyutlu osteokondral defekt izlendi. diz eklemini oluşturan her üç kompartmanda santral -marjinal osteofit formasyonu izlendi. sonuç: gonartroz, medial menisküste mediale ekstrüzyon, maserasyon , volüm kaybı ve kompleks yırtıklar , lateral menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

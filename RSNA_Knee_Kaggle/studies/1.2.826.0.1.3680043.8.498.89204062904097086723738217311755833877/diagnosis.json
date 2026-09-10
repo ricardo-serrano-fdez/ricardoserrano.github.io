@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.89204062904097086723738217311755833877",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ tibial yapışma yeri komşuluğunda 9x7 mm boyutta septalı kistik lezyon izlenmiştir (ganglion kisti).medial menisküs posterior hornunda grade ii dejenerasyon ve alt eklem yüzeyi ile ilişkili kompleks yırtık'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior hornunda grade ii dejenerasyon ve alt eklem yüzeyi ile ilişkili kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs ön kökü ve ön çapraz bağ tibial yapışma yeri komşuluğunda 9x7 mm boyutta septalı kistik lezyon izlenmiştir (ganglion kisti).medial menisküs posterior hornunda grade ii dejenerasyon ve alt eklem yüzeyi ile ilişkili kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

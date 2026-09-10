@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12799849540231315910448269889175806934",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligamanda grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz ekleminden 5,5mm mediale ekstrüdedir.menisküste volüm kaybı posterior hornu ve gövde kesimde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior posterior hornu ve gövde kesimde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar cilt altı yağ dokuda 2x1cm boyutlu lokule sıvı ve eşlik eden cilt altı yağ dokuda yaygın ödem izlendi.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.tibiafemoral eklemde medialde eklem aralığında daralma ekleme komşu kemik yüzlerde subkondral skleroz, ödem ve dejeneratif kistler izlendi.bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlendi. bulgular dejeneratif artrit lehine yorumlandı.tibia interkondiler eminenciada subkondral dejeneratif kistler izlendi.suprapatellar bursada hafif sıvı artışı izlendi. peranserin bursasında sıvı artışı izlendi.diz eklemini oluşturan  üç kompartmanda santral -marjinal osteofit formasyonu izlendi.sonuç: gonartroz, medial menisküste medial ekstrüzyon, volüm kaybı ve grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.68328371080087298795966933114044350359",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz ekleminden 4 mm hafif mediale ekstrudedir. menisküs posterior horn ve gövde kesimde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir.  anterior çapraz bağda miksoid  dejenerasyona sekonder sinyal değişikliği izlendi. arka çapraz bağ, lateral kollateral ligaman normaldir.medial kollateral ligamende periligamentöz ödem izlenmektedir. suprapatellar bursa ve diz eklem mesafesinde yaygın sıvı artışı izlendi. tibiofemoral eklem medial kesimde eklem aralığında  daralma, ekleme komşu femur medial kondilde subartiküler fraktür ve kemik iliğinde ödem ile uyumlu sinyal değişikliği izlendi. femoral ve tibial kartilajlarda incelmeler izlendi. popliteal fossada 8.5x2 cm boyutlu baker kisti izlendi. sonuç  : hafif düzeyli gonartroz, femur medial kondilde subartiküler fraktür ve medial kondili diffüz tutan kemik iliği ödemi. medial menisküste grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar bursa ve diz eklem mesafesinde yaygın sıvı artışı izlendi. tibiofemoral eklem medial kesimde eklem aralığında  daralma, ekleme komşu femur medial kondilde subartiküler fraktür ve kemik iliğinde ödem ile uyumlu sinyal değişikliği izlendi. femoral ve tibial kartilajlarda incelmeler izlendi. popliteal fossada 8.5x2 cm boyutlu baker kisti izlendi. sonuç  : hafif düzeyli gonartroz, femur medial kondilde subartiküler fraktür ve medial kondili diffüz tutan kemik iliği ödemi. medial menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fraktür'"
+  },
+  "ground_truth": null
+}

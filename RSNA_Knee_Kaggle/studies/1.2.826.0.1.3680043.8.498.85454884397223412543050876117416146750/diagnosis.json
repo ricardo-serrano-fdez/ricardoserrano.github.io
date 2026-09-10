@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.85454884397223412543050876117416146750",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ , lateral ve medial kollateral ligaman normaldir. arka çapraz bağ sinyali hafif artmış olup yer yer düzensizlikler mevcuttur (parsiyel yırtık'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir. arka çapraz bağ sinyali hafif artmış olup yer yer düzensizlikler mevcuttur (parsiyel yırtık'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs ve lateral menisküste grade ii dejenerasyon izlenmektedir. ön çapraz bağ , lateral ve medial kollateral ligaman normaldir. arka çapraz bağ sinyali hafif artmış olup yer yer düzensizlikler mevcuttur (parsiyel yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste grade ii dejenerasyon izlenmektedir. ön çapraz bağ , lateral ve medial kollateral ligaman normaldir. arka çapraz bağ sinyali hafif artmış olup yer yer düzensizlikler mevcuttur (parsiyel yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur. patellar kıkırdakta yer yer hafif incelmeler izlendi(grade  ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

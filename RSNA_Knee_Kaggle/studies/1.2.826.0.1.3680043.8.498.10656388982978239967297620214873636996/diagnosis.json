@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10656388982978239967297620214873636996",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'руптура на предна кръстна връзка. същата е задебелена          предимно в дисталната си трета към залавното място към тибията. връзката е с повишен сигнален интензитет. колатерални лигаменти – без особености. патела с наличие на остефит по долния заден ръб. ретинакулуми – б.о. сухожилие на м. квадрицепс феморис, лигамент на пателата – без особености. нормално изобразяване на меките тъкани и на фоса интеркондиларис. заключение: мр данни за гонартрозни промени на дясната колянна става. хондропатия с лизиране на хрущяла на тибия и фемур от латералната страна на ставата. руптура на предна кръстна връзка. пълна руптура с експулсация на латерален менискус. остеосклеротични промени по прилежащите дискални повърхности латерално.  дегенерация на задния рог на медиалния менискус'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.55332521421041708438748125666498042763",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir. anterior çapraz bağda mukoid dejenerasyona sekonder kalınlaşma ve t2 sinyal artışı izlenmiştir.distal kuadriseps ve patellar tendonlar normaldir.retinaküler devamsızlık yoktur.patella medial fasette subkondral alanda ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz eklem mesafesinden 7,5 mm mediale ekstrüdedir. menisküste maserasyon, hacim kaybı, posterior hornunda eşlik eden kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior, posterior hornu ve gövde kesiminde grade ii dejenerasyon izlenmiştirmedial menisküs diz eklem mesafesinden 7,5 mm mediale ekstrüdedir. menisküste maserasyon, hacim kaybı, posterior hornunda eşlik eden kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir.retinaküler devamsızlık yoktur.patella medial fasette subkondral alanda ödem, kartilajda incelme izlenmiştir.eklemde sıvı artışı saptanmamıştır. tibiofemoral eklem medialde, eklem aralığında daralma, ekleme komşu kemik yüzlerde subkondral milimetrik kistler ve subkondral ödem izlenmiştir. bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlenmiştir. bulgular dejeneratif artrit lehine yorumlanmıştır.tibia interkondiler eminensia anteriorunda, anterior çapraz bağ yapışma düzeyinde subkortikal dejeneratif kist izlenmektedir.diz eklemini oluşturan her üç kompartmanında santral-marginal osteofit formasyonu izlenmiştir.sonuç: gonatroz, medial menisküste volüm kaybı, maserasyon ve kompleks yırtık, lateral menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

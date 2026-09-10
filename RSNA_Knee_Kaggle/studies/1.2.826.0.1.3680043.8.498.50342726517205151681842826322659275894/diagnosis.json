@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.50342726517205151681842826322659275894",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'déchirure méniscale du ménisque interne'",
+    "Lateral Meniscus": "Positive: matched 'déchirure complexe multidirectionnelle impliquant le corps et la corne postérieure. il y a une composante horizontale s’étendant de la corne postérieure jusqu’au niveau du corps. il y a un fragment déplacé du ménisque en provenance de la corne postérieure déplacée antérieure à la racine postérieure. il y a aussi un fragment déplacé au niveau du corps du ménisque avec extrusion. le ménisque externe'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'épanchement intra-articulaire'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

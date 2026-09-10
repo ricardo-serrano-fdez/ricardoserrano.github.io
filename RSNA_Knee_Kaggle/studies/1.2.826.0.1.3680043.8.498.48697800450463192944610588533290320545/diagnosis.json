@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.48697800450463192944610588533290320545",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 1,
+    "Lateral OA": 1,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial meniscus with a large displaced flap'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Lateral OA": "Positive: matched 'tricompartmental chondrosis'",
+    "PF OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Effusion": "Positive: matched 'moderate joint effusion'",
+    "Synovitis": "Positive: matched 'synovial hypertrophy'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

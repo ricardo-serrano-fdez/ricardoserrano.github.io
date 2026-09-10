@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.24563801799946310644914912532825629118",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου. χωρίς παθολογία από την απεικόνιση του πρόσθιου και οπίσθιου χιαστού συνδέσµου καθώς και του έξω µηνίσκου και των πλαγίων συνδέσµων. - μικρής έκτασης αλλοιώσεις αρθρικού χόνδρου της επιγονατίδας κατά την έσω µοίρα (icrs grade iι) και εστία χονδροµαλάκυνσης χωρίς διαβρώσεις στην κεντρική και έξω µοίρα. - - μικρής έκτασης οίδηµα στην οπίσθια µοίρα του εγγύς επιγονατιδικού τένοντα στα πλαίσια τενοντοπάθειας. - μικρή ενδαρθρική συλλογή υγρού σε επικοινωνία µε ευµεγέθη (κο∆~6,7εκ) κύστη baker's, µε χαρακτήρες ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου και των πλαγίων συνδέσµων. - μικρής έκτασης αλλοιώσεις αρθρικού χόνδρου της επιγονατίδας κατά την έσω µοίρα (icrs grade iι) και εστία χονδροµαλάκυνσης χωρίς διαβρώσεις στην κεντρική και έξω µοίρα. - - μικρής έκτασης οίδηµα στην οπίσθια µοίρα του εγγύς επιγονατιδικού τένοντα στα πλαίσια τενοντοπάθειας. - μικρή ενδαρθρική συλλογή υγρού σε επικοινωνία µε ευµεγέθη (κο∆~6,7εκ) κύστη baker's, µε χαρακτήρες ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ενδαρθρική συλλογή'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

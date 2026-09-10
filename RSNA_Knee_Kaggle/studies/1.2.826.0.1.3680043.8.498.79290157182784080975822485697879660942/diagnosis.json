@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.79290157182784080975822485697879660942",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament, at mid substance. the posterior cruciate ligament is low grade partial tear'",
+    "MCL": "Positive: matched 'medial collateral ligament, at mid substance (deep fibers). the posteromedial oblique ligament; suspect tear'",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Positive: matched 'lateral meniscus with flipped into the interchondylar region with double pcl sign; bucket handle'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.70913971933753517251340687745718346828",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'déchirure complète du ligament croisé antérieur'",
+    "MCL": "Positive: matched 'entorse de bas grade du ligament collatéral médial'",
+    "Medial Meniscus": "Positive: matched 'déchirure horizontale oblique du corps ménisque médial'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'épanchement articulaire'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'kyste de baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

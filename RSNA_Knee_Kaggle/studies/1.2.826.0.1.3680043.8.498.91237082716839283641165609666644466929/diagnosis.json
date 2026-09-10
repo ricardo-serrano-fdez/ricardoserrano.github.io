@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.91237082716839283641165609666644466929",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament. avuls'",
+    "MCL": "Positive: matched 'medial collateral ligament with full-thickness tear'",
+    "Medial Meniscus": "Positive: matched 'tear of the posterior horn and body of medial meniscus'",
+    "Lateral Meniscus": "Positive: matched 'tear of the peripheral posterior horn and body of lateral meniscus'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'moderate joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'popliteal cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

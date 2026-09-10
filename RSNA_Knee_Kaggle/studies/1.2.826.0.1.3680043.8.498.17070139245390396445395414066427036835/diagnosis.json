@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.17070139245390396445395414066427036835",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου ο οποίος παρουσιάζει ήπιο υπεξάρθρηµα. αναγνωρίζεται µέτρια ποσότητα υγρού ενδαρθρικά. χωρίς παθολογικά ευρήµατα από τον έλεγχο των χιαστών και του έσω πλαγίου συνδέσµου, του εσω µηνίσκου. από τον έλεγχο του εκτατικού µηχανισµού, του αρθρικού χόνδρου και του οστικού µυελού δεν σηµειώθηκε αξιοσηµείωτη παθολογία. συμπερασμα σύµπλοκη ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου. συνυπάρχει παθολογικό σήµα και στο πρόσθιο κέρας. παθολογικό σήµα αναγνωρίζεται στο οπίσθιο κέρας του έσω µηνίσκου ο οποίος παρουσιάζει ήπιο υπεξάρθρηµα. αναγνωρίζεται µέτρια ποσότητα υγρού ενδαρθρικά. χωρίς παθολογικά ευρήµατα από τον έλεγχο των χιαστών και του έσω πλαγίου συνδέσµου, του εσω µηνίσκου. από τον έλεγχο του εκτατικού µηχανισµού, του αρθρικού χόνδρου και του οστικού µυελού δεν σηµειώθηκε αξιοσηµείωτη παθολογία. συμπερασμα σύµπλοκη ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

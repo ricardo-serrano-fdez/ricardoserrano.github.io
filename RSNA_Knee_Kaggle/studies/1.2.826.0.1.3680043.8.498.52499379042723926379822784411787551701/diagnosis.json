@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.52499379042723926379822784411787551701",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιος χιαστός σύνδεσµος παρουσιάζει µυξοειδή εκφύλιση χωρίς ρήξη'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκος παρουσιάζει εκφυλιστική ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκου, των πλαγίων συνδέσµων, του οπισθίου χιαστού συνδέσµου και των τενόντων του εκτατικού µηχανισµού δεν παρατηρούνται παθολογικά ευρήµατα. ο έσω µηνίσκος παρουσιάζει εκφυλιστική ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

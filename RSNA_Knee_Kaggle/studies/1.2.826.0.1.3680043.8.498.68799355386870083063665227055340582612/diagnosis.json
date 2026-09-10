@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.68799355386870083063665227055340582612",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.lateral patellar retinakulumda patellar tendonun hemen komşuluğunda grade 2 sprain izlendi.popliteus tendonu çevresinde minimal sıvı artışı görüldü.i̇nfrapatellar yağ yastığında hafif ödem mevcuttur.distal kuadriseps ve diğer patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.lateral patellar retinakulumda patellar tendonun hemen komşuluğunda grade 2 sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs normaldir.  lateral menisküs gövde kesiminde tibial eklem yüzeyi ile ilişkili horizontal yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar yağ yastığında hafif ödem mevcuttur.distal kuadriseps ve diğer patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.eklemde sıvı artışı saptanmamıştır. diz eklemini oluşturan kemik yapıların sinyal intensiteleri doğaldır.sonuç: lateral menisküste yırtık , popliteus tenosinoviti , lateral patellar retinakulumda grade 2'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

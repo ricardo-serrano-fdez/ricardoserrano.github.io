@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.49660659440268002826070581802625582554",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'έσω πλάγιου συνδέσµου κατά την µεσότητά του και προς το σηµείο κατάφυσής του στο µηριαίο, πιθανώς είναι αντιδραστική στη µετατόπιση του έσω µηνίσκου. - μέτρια ποσότητα υγρού ενδοαρθρικά µε ήπια υµενίτιδα. συµπέρασµα 1. ευρήµατα κατάγµατος ανεπάρκειας έσω µηριαίου και κνηµιαίου κονδύλου (συνώνυµο \"αυτόµατη οστεονέκρωση\"). 2. εκφυλιστική ρήξη'",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου µε αλλοίωση του περιγράµµατος και υπεξάρθρηµα. - παρατηρείται οστεοαρθρίτιδα µε διάβρωση του αρθρικού χόνδου του έσω µηριαίου κονδύλου και έσω επιφάνειας της κνήµης καθώς και µε παρουσία οστεοφύτων. αρχόµενη οστεοαρθρίτιδα παρατηρείται στην έξω επιγονατιδοµηριαία συµβολή. - πάχυνση και παθολογικό σήµα του έσω πλάγιου συνδέσµου κατά την µεσότητά του και προς το σηµείο κατάφυσής του στο µηριαίο, πιθανώς είναι αντιδραστική στη µετατόπιση του έσω µηνίσκου. - μέτρια ποσότητα υγρού ενδοαρθρικά µε ήπια υµενίτιδα. συµπέρασµα 1. ευρήµατα κατάγµατος ανεπάρκειας έσω µηριαίου και κνηµιαίου κονδύλου (συνώνυµο \"αυτόµατη οστεονέκρωση\"). 2. εκφυλιστική ρήξη'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

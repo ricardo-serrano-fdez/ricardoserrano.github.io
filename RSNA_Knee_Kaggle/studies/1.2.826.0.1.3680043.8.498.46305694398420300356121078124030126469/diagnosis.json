@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.46305694398420300356121078124030126469",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior horn ve gövde kesimde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs posterior horn ve gövde kesimde grade ii dejenerasyon izlendi. anterior çapraz bağ t2 sinyalinde artış izlenmekte olup grade i sprain lehine yorumlandı. medial kollateral ligamende periligamentöz ödem izlendi.arka çapraz bağ ve lateral kollateral ligaman normaldir.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmektedir. gastrocnemius bursasında sıvı artışı izlendi. femur medial kondilde lineer nondeplase fraktür hattı ve komşu kemik iliğinde ödem ile uyumlu sinyal değişikliği izlendi. popliteal fossada 2.5x1 cm boyutlu baker kisti izlenmektedir. sonuç  :femur medial kondilde nondeplase fraktür ve komşu kemik iliği ödemi. medial menisküste grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fraktür'"
+  },
+  "ground_truth": null
+}

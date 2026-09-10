@@ -1,0 +1,45 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'руптура на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'руптура на задния рог на медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'руптура на задния рог на медиалния менискус. в задния рог на медиалния менискус се изобразява хиперинтензна линия с кос ход, достигаща до края на менискуса и до артикулиращата повърхност на тибията. мр данни за дегенеративни промени в задния рог на латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellae – нормален образ. изобразени мускулни групи и останали меки тъкани – нормален образ. наличие на малка еднокамерна бекерова киста в поплитеалната ямка с размер 17/12 мм. заключение: мр данни за остеохондрална фрактура в медиалното плато на бедрената кост. скъсване в заден рог на медиален менискус - grade 3'",
+    "Effusion": "Positive: matched 'ставен излив'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'бекерова киста'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'фрактура'"
+  },
+  "ground_truth": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 1,
+    "Fracture": 0
+  }
+}

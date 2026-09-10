@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.97042446513400958172996637321308032556",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral kollateral ligaman normaldir. medial kollateral ligamande periligamantöz ödem izlenmektedir. distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligamande grade i sprain'",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.gastroknemius medial krus proksimali insersiyo düzeyinde tendinozis ile uyumlu sinyal değişikliği izlenmektedir.suprapateller bursada sıvı artışı ve sinovyal kalınlaşma izlenmektedir. tibiofemoral eklem mesafesinde sıvı artışı izlenmektedir. tibia femoral eklem düzeyinde kemik yapı köşelerde milimetrik osteofitik sivrileşme izlenmektedir.tibiofemoral eklem medialde eklem aralığında daralma, ekleme komşu femoral ve tibial kartilajlarda incelme izlenmektedir.popliteal fossada 6x3 cm boyutlu baker kisti izlenmektedir. sonuç: hafif düzeyde gonartroz,medial ve lateral menisküslerde grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

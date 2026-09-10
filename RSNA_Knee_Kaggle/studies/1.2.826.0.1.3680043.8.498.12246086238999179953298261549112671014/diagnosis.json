@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12246086238999179953298261549112671014",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.eklemde sıvı artışı saptanmamıştır. tibia interkondiler eminens  anterior ve posteriorda çapraz bağlar insersio düzeyinde subkortikal milimetrik kistler izlenmektedir. patella medial fasettte kartilajda fokal incelme izlendi. gastrocnemius medial krus proksimal insersio düzeyinde tendinozis ile uyumlu sinyal değişikliği ve milimetrik parsiyel yırtık'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior horn ve gövde kesimde grade ii  dejenerasyon izlendi. lateral menisküs normaldir.  ön çapraz bağ ve arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.eklemde sıvı artışı saptanmamıştır. tibia interkondiler eminens  anterior ve posteriorda çapraz bağlar insersio düzeyinde subkortikal milimetrik kistler izlenmektedir. patella medial fasettte kartilajda fokal incelme izlendi. gastrocnemius medial krus proksimal insersio düzeyinde tendinozis ile uyumlu sinyal değişikliği ve milimetrik parsiyel yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir.  ön çapraz bağ ve arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.eklemde sıvı artışı saptanmamıştır. tibia interkondiler eminens  anterior ve posteriorda çapraz bağlar insersio düzeyinde subkortikal milimetrik kistler izlenmektedir. patella medial fasettte kartilajda fokal incelme izlendi. gastrocnemius medial krus proksimal insersio düzeyinde tendinozis ile uyumlu sinyal değişikliği ve milimetrik parsiyel yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patella medial fasettte kartilajda fokal incelme izlendi. gastrocnemius medial krus proksimal insersio düzeyinde tendinozis ile uyumlu sinyal değişikliği ve milimetrik parsiyel yırtık izlendi. popliteal fossada 13x5 mm boyutlu baker kisti izlendi.prepatellar cilt altı yağ dokuda ödeme sekonder retiküler tarzda sıvı artışı izlendi. sonuç  : medial menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

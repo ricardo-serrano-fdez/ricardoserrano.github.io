@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.43483537125776347707929354413013709736",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağda miksoid dejenerasyon ile uyumlu sinyal artışı mevcuttur.arka çapraz bağ proksimal düzeyde kalınlaşma ve sinyal artışı izlendi. meniskofemoral ligamanda belirgin kalinlaşma ve sinyal artişi izlendi.patella normal yerleşimlidir. retinakulumlar normaldir. patellar tendon normaldir.diz eklemini oluşturan kemik yapılarda hafif osteofitik sivrileşmeler ve tibiofemoral eklem medialde eklem mesafesinde hafif daralma ve komşu kartilajlarda hafif incelmeler izlendi ( dejeneratif artrit bulguları ).  tibia interkondiler tüberkül acl yapışma düzeyinde subkondrial milimetrik kistler izlendi.diz eklemi içerisinde hafif sıvı artışı izlendi. gastrocnemius medial krus femoral yapışma düzeyinde parsiyel yırtık'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküste grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste grade ii dejenerasyon izlendi. ön çapraz bağda miksoid dejenerasyon ile uyumlu sinyal artışı mevcuttur.arka çapraz bağ proksimal düzeyde kalınlaşma ve sinyal artışı izlendi. meniskofemoral ligamanda belirgin kalinlaşma ve sinyal artişi izlendi.patella normal yerleşimlidir. retinakulumlar normaldir. patellar tendon normaldir.diz eklemini oluşturan kemik yapılarda hafif osteofitik sivrileşmeler ve tibiofemoral eklem medialde eklem mesafesinde hafif daralma ve komşu kartilajlarda hafif incelmeler izlendi ( dejeneratif artrit bulguları ).  tibia interkondiler tüberkül acl yapışma düzeyinde subkondrial milimetrik kistler izlendi.diz eklemi içerisinde hafif sıvı artışı izlendi. gastrocnemius medial krus femoral yapışma düzeyinde parsiyel yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

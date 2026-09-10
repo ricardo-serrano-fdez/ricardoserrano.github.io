@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.25266231062774974303723359806535863810",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'lca. rotura'",
+    "MCL": "Positive: matched 'rotura completa de lca. rotura parcial del lcm'",
+    "Medial Meniscus": "Positive: matched 'rotura completa de lca. rotura parcial del lcm. rotura de menisco interno'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'derrame'",
+    "Synovitis": "Positive: matched 'sinovitis'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'contusión ósea'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

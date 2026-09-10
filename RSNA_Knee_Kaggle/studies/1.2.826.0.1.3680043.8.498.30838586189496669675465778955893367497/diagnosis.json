@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.30838586189496669675465778955893367497",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral kollateral ligaman normaldir. medial kollateral ligamanda periligamantöz ödem izlenmektedir.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligamanda grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs diz ekleminde 5 mm mediale ekstrüdedir. menisküs posterior hornu ve gövde kesiminde grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs anterior, posterior hornu ve gövde kesiminde grade ii dejenerasyon izlenmiştir.medial menisküs diz ekleminde 5 mm mediale ekstrüdedir. menisküs posterior hornu ve gövde kesiminde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.popliteal düzeyde femur medial kondil posterior superior kesim komşuluğunda ekstraartıküler yerleşimli 2x1 cm boyutlu ganglion kisti izlenmiştir.tibiofemoral eklem medialde eklem aralığında daralma, ekleme komşu femoral ve tibial kartilajlarda incelme izlenmiştir.posterior çapraz bağ posterior komşuluğunda 1 cm çaplı ganglion kisti izlenmiştir.sonuç: tibiofemoral eklem medialde, eklem aralığında daralma, ekleme komşu kartilajlarda fokal incelme, medial menisküste medial ekstrüzyon, grade ii'",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

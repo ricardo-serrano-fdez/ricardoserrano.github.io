@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11592838054859712596515534341207971997",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'увреда в задния рог на медиалния менискус. в него се изобразява хиперинтензна линия с хоризонтален ход, която достига до края на менискуса без да има контакт с артикулиращите повърхности на тибията и фемура. мр данни за дегенеративни промени и увреда в задния рог на латералния менискус. задният рог на латералния менискус е с дифузно повишен сигнален интензитет, като в нeго се изобразява и хиперинтензна линия с хоризонтален ход. линията не достига до артикулиращите повърхности на костите. нормално изобразяване на предния рог на медиалния менискус и на предния рог на латералния менискус. мр данни за частично скъсване на предната кръстна връзка'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'увреда в задния рог на медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'увреда в задния рог на медиалния менискус. в него се изобразява хиперинтензна линия с хоризонтален ход, която достига до края на менискуса без да има контакт с артикулиращите повърхности на тибията и фемура. мр данни за дегенеративни промени и увреда в задния рог на латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

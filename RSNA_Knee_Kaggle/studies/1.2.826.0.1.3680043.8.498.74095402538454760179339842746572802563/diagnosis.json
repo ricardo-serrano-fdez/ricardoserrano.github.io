@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.74095402538454760179339842746572802563",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligamande periligamantöz ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküste mediale ekstrüzyon ve grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir.medial menisküs diz ekleminden 5 mm mediale ekstrüdedir. menisküs posterior horn ve gövde kesimde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.tibiofemoral eklem medialde eklem aralığında daralma ekleme komşu femur medial kondilde subkondral fokal kemik iliği ödemi izlendi. bu düzeyde femoral ve tibial kartilajlarda destrüksiyon izlendi. bulgular dejeneratif artrit lehine yorumlandı.suprapateller bursa ve diz eklem mesafesinde sıvı artışı izlendi.sonuç: gonartroz. medial menisküste mediale ekstrüzyon ve grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

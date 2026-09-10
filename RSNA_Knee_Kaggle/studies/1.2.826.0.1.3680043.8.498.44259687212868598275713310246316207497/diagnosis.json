@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.44259687212868598275713310246316207497",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament: mild signal abnormality involving the acl ligament at the posterior insertion to the femur, likely related to a mild sprain'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Positive: matched 'lateral meniscus. there is volume loss in the body and a large displaced fragment in the intercondylar notch. there is complete loss of tissue in the posterior horn, likely a complete radial tear'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'joint effusion'",
+    "Synovitis": "Positive: matched 'synovial thickening'",
+    "Baker's": "Positive: matched 'baker cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.98151095279541278201351784048265686573",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ sinyalinde hafif diffüz sinyal artışı mevcuttur. arka çapraz bağ proksimalinde parsiyel yırtık'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.distal kuadriseps tendon normaldir. retinaküler devamsızlık yoktur.patellar kıkırdakta medial fasette yer yer fissür hatları ve komşu kemikte subkondral kemik iliği ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior hornunda grade ii dejenerasyon izlenmiştir.ön çapraz bağ sinyalinde hafif diffüz sinyal artışı mevcuttur. arka çapraz bağ proksimalinde parsiyel yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs posterior hornunda grade i dejenerasyon izlenmiştir. medial menisküs posterior hornunda grade ii dejenerasyon izlenmiştir.ön çapraz bağ sinyalinde hafif diffüz sinyal artışı mevcuttur. arka çapraz bağ proksimalinde parsiyel yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

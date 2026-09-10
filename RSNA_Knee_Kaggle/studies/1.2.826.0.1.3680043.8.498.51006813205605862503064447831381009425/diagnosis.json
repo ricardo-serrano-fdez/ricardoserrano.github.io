@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.51006813205605862503064447831381009425",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 1,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'innenmeniskus mit kleiner ganglionzyste an der vorderhornwurzel (1005/52; 4/19). geringe mukoide veränderungen auch des außenmeniskus. retropatellararthrose mit medialseitiger betonung bei insbesonder flächiger, teils vollschichtiger chondropathie mit subchondralen ödemzonen an der medialen kondylenwange (7/26). plica mediopatellaris (8/13). subkortikal gelegene t2-hyperintense läsion'",
+    "Lateral Meniscus": "Positive: matched 'außenmeniskus. retropatellararthrose mit medialseitiger betonung bei insbesonder flächiger, teils vollschichtiger chondropathie mit subchondralen ödemzonen an der medialen kondylenwange (7/26). plica mediopatellaris (8/13). subkortikal gelegene t2-hyperintense läsion'",
+    "Medial OA": "Positive: matched 'arthrose mit medialseitiger betonung bei insbesonder flächiger, teils vollschichtiger chondropathie mit subchondralen ödemzonen an der mediale'",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker-zyste'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

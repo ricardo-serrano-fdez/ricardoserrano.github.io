@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.89332108074590559691047812196991368746",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament. the finding is associated with an anterior tibial drawer measured in the lateral joint compartment of about 8 mm. there is evidence of resolving bone contusions in the anterior lateral femoral condyle with slightly depressed anterior sulcus and resolving bone contusions in the posterior lateral tibial plateau. findings are consistent with resolving kissing contusions related to a pivot shift mechanism of injur'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'tear of the peripheral one third of the posterior horn of the medial meniscus'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'knee effusion'",
+    "Synovitis": "Positive: matched 'synovitis'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone contusion'",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

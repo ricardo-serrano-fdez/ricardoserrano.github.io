@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.69417319234704516520173921900954337376",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligamande periligamantöz ödem'",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patella medial fasette subkondral 7x4 mm boyutlu fokal osteokondral defekt izlenmektedir.prepatellar cilt altı yağ dokuda ödem izlendi.tibia medial platoda subartiküler fraktür ve komşu kemik iliğinde ödem ile uyumlu sinyal değişikliği izlendi.femur medial kondilde tibiofemoral eklem komşuluğunda subkondral alanda 10x5 mm boyutlu osteokondral defekt ve komşu kemik iliğinde ödem izlendi.femur interkondiler alan anteriorunda da subkondral alanda 9x5 mm boyutlu osteokondral defekt izlenmektedir.diz anteroinferior kesiminde cilt altı yağ dokuda ödeme sekonder retiküler tarzda sıvı artışı izlendi.sonuç: tibia medial platoda subartiküler mikrofraktür ve komşu kemik iliği ödemi. femur medial kondilde interkondiler düzeyde ve patella medial fasette osteokondral defektler. medial menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fraktür'"
+  },
+  "ground_truth": null
+}

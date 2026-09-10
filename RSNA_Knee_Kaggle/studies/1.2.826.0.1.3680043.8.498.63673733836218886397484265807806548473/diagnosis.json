@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.63673733836218886397484265807806548473",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 1,
+    "Lateral OA": 1,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'innenmeniskus führend am hinterhorn mit komplexer riss'",
+    "Lateral Meniscus": "Positive: matched 'außenmeniskus mit möglicher, bereits vorbeschriebener riss'",
+    "Medial OA": "Positive: matched 'gonarthrose mit bekannt in der belastungszone höhergradig gemindertem knorpelbesatz; im vergleich zu [date] dabei an der hinteren femurkondyle progredienz mit nun vollschichtiger chondropathie fokal (4/23, 5/10). zunehmende subchondrale ödemzone des mediale'",
+    "Lateral OA": "Positive: matched 'gonarthrose mit bekannt in der belastungszone höhergradig gemindertem knorpelbesatz; im vergleich zu [date] dabei an der hinteren femurkondyle progredienz mit nun vollschichtiger chondropathie fokal (4/23, 5/10). zunehmende subchondrale ödemzone des medialen tibiaplateaus sowie der medialen femurkondyle. mucoide degeneration des innenmeniskus führend am hinterhorn mit komplexer rissbildung (5/9) am übergang in die pars intermedia aus der voruntersuchung bekannt; der meniskus extrudiert bei beteiligung der hinterwurzel. mucoide degeneration auch des außen'",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'gelenkerguss'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker-zyste'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

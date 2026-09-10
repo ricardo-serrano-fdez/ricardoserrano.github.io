@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67690090498828405347380696553164435363",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου. παρουσία επιχείλιων οστεοφύτων καθώς επίσης και πολλαπλών γαγγλιακών κύσεων κεφαλικά του µεσάρθριου διαστήµατος µε προσθιοπίσθια διάµετρο 2,5cm και κεφαλουραία διάµετρο 2,5cm. στο πρόσθιο διαµέρισµα σηµειούται παρουσία οστεοφύτωσης και ήπιας διάβρωσης του αρθρικού χόνδρου της επιγονατίδας. τονίζεται η παρουσία νεοσχηµατιζόµενων οστικών προσεκβολών στη µεσοκονδύλια εντοµή. πιθανολογείται ότι η παρουσία των νεοπαραγωγικών αυτών δοµών ευθύνεται για την χρονία ολική ρήξη'",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκος είναι φυσιολογικός. στο έσω διαµέρισµα του γόνατος παρατηρείται σοβαρή εκφυλιστική οστεοαρθρίτιδα µε διάβρωση αρθρικού χόνδρου µηριαίου και κνηµιαίου κονδύλου σύστοιχα (icrs grade 4) και συνοδό εκφυλιστική ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'κύστη baker'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.76538737802277241976971950690663079376",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 1,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligamanda grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküste diz eklem mesafesinden 4 mm mediale ekstrüdedir. menisküs hacminde azalma, posterior horn ve gövde kesiminde grade iii'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir. tibiofemoral eklem medialinde, eklem aralığında daralma, ekleme komşu kemik yüzlerde subkondral hafif kemik iliği ödemi izlendi. femur medial kondilde ise 7x4 mm boyutlu fokal osteokondral defekt izlenmektedir. bu düzeyde femoral ve tibial kartilajlarda incelme izlenmiştir. sonuç: gonartroz, medial menisküste hafif mediale ekstrüzyon ve grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Positive: matched 'sinovit'",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.47255564202539432049700324486197024855",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 1,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'acl sprain'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial meniscus tear'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Positive: matched 'medial compartment osteoarthritis'",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar cartilage. no high-grade'",
+    "Effusion": "Positive: matched 'small joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'popliteal cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

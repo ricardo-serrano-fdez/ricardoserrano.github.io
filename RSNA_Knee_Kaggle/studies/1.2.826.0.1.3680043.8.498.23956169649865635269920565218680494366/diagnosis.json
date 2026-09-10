@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.23956169649865635269920565218680494366",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 1,
+    "Lateral OA": 1,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'innenmeniskus bei substanzdefekt'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Positive: matched 'gonarthrose mit flächig wellig gemindertem knorpelbesatz, randständig betont und höhergradig in der belastungszone beider gelenkpartner. oberflächliche chondropathien lateral femorotibial und femoropatellar. innenmeniskus bei substanzdefekt im hinterhorn gering extrudiert stehend mit horizontaler rissbildung bei auffaserung und teils nach paratibial verdrängten meniskusanteilen (5/22, 6/9) in pars intermedia und hinterhorn. bek. mukoide veränderungen des am-hinterhorns. bandapparat intakt. mediale'",
+    "Lateral OA": "Positive: matched 'gonarthrose mit flächig wellig gemindertem knorpelbesatz, randständig betont und höhergradig in der belastungszone beider gelenkpartner. oberflächliche chondropathien lateral'",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'erguss'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

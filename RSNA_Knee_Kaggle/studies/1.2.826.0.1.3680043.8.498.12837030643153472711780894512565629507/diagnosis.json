@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12837030643153472711780894512565629507",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 1,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial collateral ligament, involving both the deep and superficial components at the femoral attachment with mild retraction. the femoral attachment of the medial patellofemoral ligament is also likely injur'",
+    "Medial Meniscus": "Positive: matched 'medial meniscus surfacing inferiorly. there is a small meniscal flap'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'moderate joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'popliteal cyst'",
+    "Contusion": "Positive: matched 'bone contusion'",
+    "Fracture": "Positive: matched 'fracture'"
+  },
+  "ground_truth": null
+}

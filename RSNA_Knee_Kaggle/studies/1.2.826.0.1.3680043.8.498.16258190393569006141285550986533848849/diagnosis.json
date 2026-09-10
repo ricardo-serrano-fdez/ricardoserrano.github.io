@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.16258190393569006141285550986533848849",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağın intensitesi difüz olarak artmış  ve bağ kalınlaşmış olup striasyonunda kayıp gözleniyor. anteriyor interkondiler resesteki ödemli ince bağ bağ yapısı kopmuş ön çapraz bağ ğarçası yanısıra ligamentum mukozuma da ait olabilir (infrapatellar plika). bulgular ön çapraz bağın parsiyel yırtığını telkin ediyor. arka çapraz ve yağ bağlar normal. lateral menisküs arka boynuzunda alt eklem yüzeyi ile ilişkilenen oblik yırtık'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

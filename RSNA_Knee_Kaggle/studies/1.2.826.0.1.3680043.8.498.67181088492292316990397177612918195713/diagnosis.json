@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67181088492292316990397177612918195713",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'voorste kruisband, proximale 3e, met onderbreking vezels, infiltratie intercondylaire notch,. slechts minimale opzetting van suprapatellaire recessus. licht verdikt voorkomen mediaal collateraal ligament, met vochtinfiltratie oppervlakkig en diep aan het ligament. beperkt botoedeem posterieur op het mediale tibiaplateau. incomplete verticale scheur'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'mediale meniscus. beginnend tot gevorderd femoropatellair kraakbeenlijden, gekenmerkt door multipele fissuren, langs schuine fissuur met flapvorming op de mediale facet, en kleine geode's met beperkt botoedeem op het laterale facet van de patella. kleine popliteale cyste. uitgebreid subcutaan oedeem, posterieure helft dijbeen. besluit: ernstige distorsio van de linkerknie met: - v olledige ruptuur'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.27655410895168998898506695863000928400",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιου χιαστού συνδέσµου µε αίµαρθρο. 2. ηπιο εµπίεσµα έξω οπίσθιου κνηµιαίου πλατώ. 3. μερική κάκωση'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Positive: matched 'έξω µηνίσκος. με παθολογικό σήµα και ήπια δίογκωση καθώς και µερική ασυνέχεια, ελέγχεται το εγγυς καταφυτικό τµήµα του πρόσθιο χιαστού συνδέσµου. οι πλάγιοι σύνδεσµοι απεικονίζονται µε ήπια πάχυνση και οίδηµα, χωρίς ασυνέχεια. από τον έλεγχο του προσθίου διαµερίσµατος οι τένοντες επιγονατιδικός και τετρακέφαλος καθώς και η επιγονατίδα ελέγχονται εντός του φυσιολογικού. η επιγονατίδα έχει µορφολογία wiberg ii. μετρία συλλογή υγρού µε αιµορραγικά στοιχεία παρατηρείται ενδοαρθρικά. εντός του φυσιολογικού ελέγχεται ο αρθρικός χόνδρος. συμπερασμα: 1. μερική ρήξη'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Positive: matched 'bone bruise'",
+    "Fracture": "Positive: matched 'κάταγµα'"
+  },
+  "ground_truth": null
+}

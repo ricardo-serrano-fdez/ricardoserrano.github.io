@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.82143276307898132314496735515204481508",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 0,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağda miksoid dejenerasyon ile uyumlu sinyal artışı izlendi. arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.patella femaral eklem lateral fasette  komşu kıkırdaklarda bütünlük kaybı  ve subkondral kemik iliği ödemi mevcuttur. komşu trohlaer ve patellar kıkırdaklarda bütünlük kaybı ve komşu kemikte subkondral kemik iliği ödemi izlendi  ( grade iv kondromalazi ).suprapatellar bursada ve diz eklemi düzeyinde hafif sıvı artışları izlendi. lateral reseste sıvı artışı izlendi.distal kuadriseps  normaldir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.patella femaral eklem lateral fasette  komşu kıkırdaklarda bütünlük kaybı  ve subkondral kemik iliği ödem'",
+    "Medial Meniscus": "Negative / intact for Medial Meniscus",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker kisti'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

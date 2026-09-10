@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.89045629523485194086986785222960864883",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'πρόσθιος χιαστός δεν αναγνωρίζεται κατά το εγγύς ήµισυ αυτού. παρατηρείται γραµµοειδές παθολογικό σήµα στο σώµα µε επέκταση στο οπίσθιο κέρας του έσω µηνίσκου. σηµειώνεται συλλογή υγρού ενδαρθρικά. ασυνέχεια παρατηρείται στην κάτω έξω µηνισκική δεσµίδα. παρουσία οστεοµυελικού οιδήµατος στην µετάφυση του µηριαίου και την εγγύς επίφυση της κνήµης αντίστοιχα µε τον έσω κνηµιαίο κόνδυλο. στην πρόσθια άπω µετάφυση του µηριαίου παρατηρείται µικρό, 9mm ενχόνδρωµα, άνευ κλινικής σηµασίας. συμπερασμα εικόνα ολικής ρήξη'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'έσω µηνίσκου. σηµειώνεται συλλογή υγρού ενδαρθρικά. ασυνέχεια παρατηρείται στην κάτω έξω µηνισκική δεσµίδα. παρουσία οστεοµυελικού οιδήµατος στην µετάφυση του µηριαίου και την εγγύς επίφυση της κνήµης αντίστοιχα µε τον έσω κνηµιαίο κόνδυλο. στην πρόσθια άπω µετάφυση του µηριαίου παρατηρείται µικρό, 9mm ενχόνδρωµα, άνευ κλινικής σηµασίας. συμπερασμα εικόνα ολικής ρήξη'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ύδραρθρο'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.30673411238679998084995204090753297949",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ distal düzeyinde belirgin sinyal artışı izlenmiştir (parsiyel yırtık'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'medial menisküs maserasyon,kompleks yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküste grade ii dejenerasyon izlenmiştir. medial menisküs maserasyon,kompleks yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.suprapatellar bursada diz eklemi içerisinde sıvı artışları izlenmiştir.patellar kıkırdak medial ve lateral faset düzeylerinde kıkırdakta incelme ve lateralde bütünlük kaybı, komşu kemik yapıda hafif kemik iliği ödemi izlenmiştir (medial fasette grade 3'",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

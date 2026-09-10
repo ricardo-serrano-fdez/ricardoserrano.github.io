@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.42287188181305579531212818123200473947",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral kollateral ligaman normaldir.medial kollateral ligamande periligamantöz ödem izlenmektedir.distal kuadriseps ve patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligamande grade i sprain'",
+    "Medial Meniscus": "Positive: matched 'medial menisküste grade iii'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs normaldir. medial menisküs posterior hornu ve gövde kesiminde grade iii'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Positive: matched 'patellar tendonlar normaldir. patella normal yerleşimlidir. retinaküler devamsızlık yoktur.popliteus tendon komşuluğunda peritendinöz 20x9 mm boyutunda multiloküle kist izlenmiştir (ganglion kisti).suprapateller bursada sıvı artışı izlenmiştir.tibia medial platoda subartiküler lineer fraktür ve komşu kemik iliğinde ödem ile uyumlu sinyal değişikliği izlenmiştir.sonuç: tibia medial platoda subartiküler fraktür ve komşu kemik iliği ödemi. medial menisküste grade ii'",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'fraktür'"
+  },
+  "ground_truth": null
+}

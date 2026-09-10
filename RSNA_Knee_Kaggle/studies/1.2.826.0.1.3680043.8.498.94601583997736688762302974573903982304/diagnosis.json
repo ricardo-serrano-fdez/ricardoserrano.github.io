@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94601583997736688762302974573903982304",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 0,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'ön çapraz bağ ve arka çapraz bağ, lateral ve medial kollateral ligaman normaldir.distal kuadriseps ve patellar tendonlar normaldir.  retinaküler devamsız'",
+    "MCL": "Positive: matched 'medial kollateral ligaman normaldir.distal kuadriseps ve patellar tendonlar normaldir.  retinaküler devamsızlık yoktur.diz eklem aralığı ve suprapatellar bursada effüzyon mevcuttur.diz eklem aralığı medial kompartmanda belirgin daralmış olup bu düzeyde femur medial kondilde yaklaşık 1cm boyutunda osteokondral lezyon ve medial kondilde yoğun subkondral kemik iliği ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs posterior horn -kök birleşimi düzeyinde yırtık'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Negative / intact for Effusion",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

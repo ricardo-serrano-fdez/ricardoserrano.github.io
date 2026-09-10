@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67001329390153622359718581388215312710",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 0,
+    "Medial OA": 1,
+    "Lateral OA": 1,
+    "PF OA": 1,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial collateral ligament:   low-grade partial thickness tear'",
+    "Medial Meniscus": "Positive: matched 'tear of the posterior horn and body of the medial meniscus'",
+    "Lateral Meniscus": "Negative / intact for Lateral Meniscus",
+    "Medial OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Lateral OA": "Positive: matched 'tricompartmental chondrosis'",
+    "PF OA": "Positive: matched 'tricompartmental chondrosis'",
+    "Effusion": "Positive: matched 'moderate fluid'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker's cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.13143446880514535170343243531129864116",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Positive: matched 'medial kollateral ligaman çevresinde sıvı artışı izlenmiştir.distal kuadriseps ve patellar tendonlar normaldir. retinaküler devamsızlık yoktur.patellar tendon tibia yapışma düzeyinde ödem'",
+    "Medial Meniscus": "Positive: matched 'medial menisküs normaldir. arka çapraz bağ ve lateral kollateral ligaman normaldir. ön çapraz bağ devamlılığı seçilememiştir (tam kat yırtık'",
+    "Lateral Meniscus": "Positive: matched 'lateral menisküs ve medial menisküs normaldir. arka çapraz bağ ve lateral kollateral ligaman normaldir. ön çapraz bağ devamlılığı seçilememiştir (tam kat yırtık'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'sıvı artışı'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Negative / intact for Baker's",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}

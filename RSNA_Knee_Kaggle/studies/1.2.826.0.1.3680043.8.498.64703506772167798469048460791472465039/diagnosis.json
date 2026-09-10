@@ -1,0 +1,45 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039",
+  "predictions": {
+    "ACL": 1,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 1
+  },
+  "audit_trail": {
+    "ACL": "Positive: matched 'anterior cruciate ligament: the distal bony avuls'",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'tear of the superficial portion at the mid to distal third. moderate grade partial tear of the deep meniscal femoral and meniscal tibial components with partial meniscocapsular separation of the medial meniscal'",
+    "Lateral Meniscus": "Positive: matched 'lateral meniscus: mild nonspecific signal changes at the anterior horn compatible with low-grade tear'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'large joint effusion'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'baker cyst'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Positive: matched 'avulsion fracture'"
+  },
+  "ground_truth": {
+    "ACL": 0,
+    "MCL": 1,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 0,
+    "Contusion": 1,
+    "Fracture": 1
+  }
+}

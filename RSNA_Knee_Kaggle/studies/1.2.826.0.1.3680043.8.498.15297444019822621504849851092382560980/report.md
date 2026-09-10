@@ -1,0 +1,91 @@
+# Knee MRI Diagnostic Report
+**StudyInstanceUID**: `1.2.826.0.1.3680043.8.498.15297444019822621504849851092382560980`
+
+## FINDINGS:
+
+### OSSEOUS STRUCTURES:
+Alignment is anatomical. No acute fracture or bone bruise. Background marrow signal is normal without aggressive lesions.
+
+### JOINT SPACE:
+Joint effusion present. Baker's cyst identified. Normal synovial membrane.
+
+### MEDIAL COMPARTMENT:
+- **Medial meniscus**: Normal in morphology and signal without tear.
+- **Medial compartment cartilage**: Preserved articular cartilage.
+
+### LATERAL COMPARTMENT:
+- **Lateral meniscus**: Normal in morphology and signal without tear.
+- **Lateral compartment cartilage**: Preserved articular cartilage.
+
+### PATELLOFEMORAL COMPARTMENT:
+- **Patellofemoral compartment cartilage**: Preserved patellofemoral articular cartilage.
+
+### CRUCIATE LIGAMENTS:
+- **Anterior cruciate ligament (ACL)**: Normal with both bundles intact.
+- **Posterior cruciate ligament (PCL)**: Normal.
+
+### COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+- **Medial collateral ligament (MCL)**: Normal.
+- **Lateral collateral ligament (LCL) complex**: Normal.
+- **Posterolateral corner structures**: Normal.
+
+### EXTENSOR MECHANISM:
+- **Distal quadriceps tendon**: Normal without tendinosis or tear.
+- **Patella tendon**: Normal without tendinosis or tear.
+- **Medial patellofemoral ligament (MPFL) and patellar retinacula**: Normal.
+- **Patellofemoral tracking**: Normal.
+
+### MUSCLES/TENDONS:
+No acute muscle strain or muscle atrophy. Visualized tendons intact.
+
+### SOFT TISSUES:
+Normal surrounding soft tissues and neurovascular bundles.
+
+---
+
+## IMPRESSION:
+1.	Joint effusion.
+2.	Popliteal (Baker's) cyst.
+
+---
+### Source Raw Report:
+```text
+CONSTATATIONS :
+
+Fractures :
+Aucune.
+
+Alignement articulaire :
+Normal.
+
+Changements dégénératifs :
+Aucune.
+
+Signal de la moelle osseuse :
+Normal.
+
+Ligament croisé antérieur : Normal.
+Ligament croisé postérieur : Normal.
+Ligament latéral médial : Normal.
+Complexe du ligament collatéral latéral : normal.
+
+Ménisque médial : Normal.
+Ménisque latéral : Normal.
+
+Tendons extenseurs : Normal.
+Rétinacula patellaire : Normal.
+Pes anserinus : Normal.
+
+Coin postéro-latéral et postérieur : Normal.
+
+Épanchement articulaire : Petit épanchement articulaire.
+Kyste de Baker : Aucun.
+
+Autres trouvailles significatives :
+Léger œdème dans le coin latéral proximal du paquet graisseux de Hoffa.
+
+CONCLUSION :
+Aucun dérangement interne des ligaments ou des ménisques du genou n'est identifié.
+Suspicion de léger syndrome de coincement de Hoffa, à corréler cliniquement.
+Petit épanchement articulaire non spécifique.
+```

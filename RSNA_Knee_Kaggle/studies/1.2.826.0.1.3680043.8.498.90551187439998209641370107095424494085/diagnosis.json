@@ -1,0 +1,32 @@
+{
+  "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.90551187439998209641370107095424494085",
+  "predictions": {
+    "ACL": 0,
+    "MCL": 0,
+    "Medial Meniscus": 1,
+    "Lateral Meniscus": 1,
+    "Medial OA": 0,
+    "Lateral OA": 0,
+    "PF OA": 0,
+    "Effusion": 1,
+    "Synovitis": 0,
+    "Baker's": 1,
+    "Contusion": 0,
+    "Fracture": 0
+  },
+  "audit_trail": {
+    "ACL": "Negative / intact for ACL",
+    "MCL": "Negative / intact for MCL",
+    "Medial Meniscus": "Positive: matched 'увреда 2a степен. нормално изобразяване на латералния менискус. сухожилие на м. квадрицепс феморис, лигамент на пателата – б.о. визуализира се малка бекерова киста с типична локализация с р-р 30/12 мм. заключение: мр данни за контузионен костномозчен едем в пателата. няма данни за хондромалация на пателата. лезия в задния рог на медиалния менискус'",
+    "Lateral Meniscus": "Positive: matched 'увреда 2a степен. нормално изобразяване на латералния менискус'",
+    "Medial OA": "Negative / intact for Medial OA",
+    "Lateral OA": "Negative / intact for Lateral OA",
+    "PF OA": "Negative / intact for PF OA",
+    "Effusion": "Positive: matched 'ставен излив'",
+    "Synovitis": "Negative / intact for Synovitis",
+    "Baker's": "Positive: matched 'бекерова киста'",
+    "Contusion": "Negative / intact for Contusion",
+    "Fracture": "Negative / intact for Fracture"
+  },
+  "ground_truth": null
+}
