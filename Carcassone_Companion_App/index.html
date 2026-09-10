@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An assisted final scoring calculator for Carcassonne." />
+    <title>Carcassonne Companion</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">Base game · assisted final scoring</p>
+        <h1>Carcassonne Companion</h1>
+        <p>Record each remaining construction and get an explained final score for every player.</p>
+      </header>
+
+      <section class="card" aria-labelledby="photo-heading">
+        <div class="section-heading">
+          <div>
+            <p class="step">0</p>
+            <h2 id="photo-heading">Board photo</h2>
+          </div>
+          <button class="text-button" id="clear-photo" type="button" hidden>Clear photo</button>
+        </div>
+        <label class="upload-control" for="board-photo">
+          <span>Choose a board photo</span>
+          <input id="board-photo" type="file" accept="image/*" capture="environment" />
+        </label>
+        <p id="photo-instructions" class="hint">HEIC, JPEG, and PNG photos are supported. Use an overhead photo with every tile visible; the photo stays in this browser tab.</p>
+        <div id="photo-workspace" class="photo-workspace" hidden>
+          <p class="calibration-status" id="calibration-status" aria-live="polite">Click the four corners of any one tile: top-left, top-right, bottom-right, then bottom-left.</p>
+          <canvas id="board-canvas" aria-label="Uploaded board photo. Click four corners of one reference tile to calibrate its perspective."></canvas>
+          <div class="photo-actions">
+            <button class="secondary-button" id="reset-calibration" type="button">Reset reference tile</button>
+            <span id="calibration-result" class="hint"></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="card" aria-labelledby="players-heading">
+        <div class="section-heading">
+          <div>
+            <p class="step">1</p>
+            <h2 id="players-heading">Players</h2>
+          </div>
+          <button class="secondary-button" id="add-player" type="button">Add player</button>
+        </div>
+        <div id="player-list" class="player-list"></div>
+        <p class="hint">Set the names to match the meeple colors on the board.</p>
+      </section>
+
+      <section class="card" aria-labelledby="feature-heading">
+        <div class="section-heading">
+          <div>
+            <p class="step">2</p>
+            <h2 id="feature-heading">Remaining construction</h2>
+          </div>
+          <span class="base-game-label">Base game rules</span>
+        </div>
+
+        <form id="feature-form">
+          <div class="form-grid">
+            <label>
+              Construction
+              <select id="feature-type" name="type">
+                <option value="city">City</option>
+                <option value="road">Road</option>
+                <option value="monastery">Monastery</option>
+                <option value="farm">Farm</option>
+              </select>
+            </label>
+            <label id="amount-label">
+              City tiles
+              <input id="feature-amount" name="amount" type="number" min="0" value="1" required />
+            </label>
+            <label id="bonus-label">
+              Pennants / shields
+              <input id="feature-bonus" name="bonus" type="number" min="0" value="0" required />
+            </label>
+          </div>
+          <fieldset id="owners-fieldset">
+            <legend>Which player(s) have a meeple here?</legend>
+            <div id="owner-options" class="owner-options"></div>
+          </fieldset>
+          <p id="rule-help" class="rule-help" aria-live="polite"></p>
+          <button class="primary-button" type="submit">Add construction</button>
+        </form>
+      </section>
+
+      <section class="card" aria-labelledby="results-heading">
+        <div class="section-heading">
+          <div>
+            <p class="step">3</p>
+            <h2 id="results-heading">Final score</h2>
+          </div>
+          <button class="text-button" id="reset-game" type="button">Start over</button>
+        </div>
+        <div id="scoreboard" class="scoreboard" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state">Add a remaining construction to begin scoring.</div>
+        <ol id="feature-list" class="feature-list"></ol>
+      </section>
+    </main>
+    <template id="player-template">
+      <div class="player-row">
+        <span class="player-dot" aria-hidden="true"></span>
+        <input class="player-name" aria-label="Player name" maxlength="24" />
+        <button class="remove-player" type="button" aria-label="Remove player">×</button>
+      </div>
+    </template>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/heic2any/0.0.4/heic2any.min.js" integrity="sha512-VjmsArkf8Vv2yyvbXCyVxp+R3n4N2WyS1GEQ+YQxa7Hu0tx836WpY4nW9/T1W5JBmvuIsxkVH/DlHgp7NEMjDw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
