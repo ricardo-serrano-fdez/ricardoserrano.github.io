@@ -13,6 +13,7 @@
         <p class="eyebrow">Base game · assisted final scoring</p>
         <h1>Carcassonne Companion</h1>
         <p>Record each remaining construction and get an explained final score for every player.</p>
+        <p><a href="catalog.html">Review the Z-Man 2014 tile catalog →</a></p>
       </header>
 
       <section class="card" aria-labelledby="photo-heading">
@@ -32,8 +33,18 @@
           <p class="calibration-status" id="calibration-status" aria-live="polite">Click the four corners of any one tile: top-left, top-right, bottom-right, then bottom-left.</p>
           <canvas id="board-canvas" aria-label="Uploaded board photo. Click four corners of one reference tile to calibrate its perspective."></canvas>
           <div class="photo-actions">
+            <button class="primary-button" id="auto-calibrate" type="button" disabled>Auto-detect tile edges</button>
+            <button class="secondary-button" id="toggle-edges" type="button" disabled>Show edge overlay</button>
             <button class="secondary-button" id="reset-calibration" type="button">Reset reference tile</button>
             <span id="calibration-result" class="hint"></span>
+          </div>
+          <div id="mapping-controls" class="mapping-controls" hidden>
+            <p class="calibration-status" id="mapping-status" aria-live="polite">Click the center of every tile on the board. Tiles keep their individual positions; click a yellow marker to remove it.</p>
+            <div class="photo-actions">
+              <button class="secondary-button" id="undo-tile" type="button">Undo last tile</button>
+              <button class="text-button" id="clear-tiles" type="button">Clear mapped tiles</button>
+              <span id="tile-map-result" class="hint"></span>
+            </div>
           </div>
         </div>
       </section>

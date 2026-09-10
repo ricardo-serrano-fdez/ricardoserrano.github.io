@@ -40,6 +40,7 @@ input, select { background: transparent; border: 1px solid var(--line); border-r
 .calibration-status { font-family: system-ui, sans-serif; font-size: .9rem; font-weight: 700; margin: 0 0 11px; }
 #board-canvas { background: #d8d5cd; border: 1px solid var(--line); border-radius: 8px; cursor: crosshair; display: block; height: auto; max-width: 100%; width: 100%; }
 .photo-actions { align-items: center; display: flex; flex-wrap: wrap; gap: 12px; margin-top: 11px; }
+.mapping-controls { border-top: 1px solid var(--line); margin-top: 18px; padding-top: 18px; }
 .form-grid { display: grid; gap: 14px; grid-template-columns: 1.25fr 1fr 1fr; }
 label, legend { font-family: system-ui, sans-serif; font-size: .86rem; font-weight: 700; }
 label input, label select { display: block; font-weight: 400; margin-top: 5px; }

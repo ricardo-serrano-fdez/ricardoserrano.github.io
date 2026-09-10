@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carcassonne Tile Catalog</title>
+    <link rel="stylesheet" href="catalog.css" />
+  </head>
+  <body>
+    <main>
+      <a href="index.html">← Scoring app</a>
+      <p class="eyebrow">Z-Man Games · 2014 · Anne Pätzke artwork</p>
+      <h1>Tile catalog review</h1>
+      <p>Describe each reference tile once. This verified data is what the scoring engine will use—not guesses made from a board photograph.</p>
+      <div class="layout">
+        <nav id="tile-list" aria-label="Tile selection"></nav>
+        <section class="editor" aria-labelledby="tile-title">
+          <div class="image-panel"><img id="tile-image" alt="Selected Carcassonne tile" /><strong id="tile-title"></strong></div>
+          <form id="tile-form">
+            <h2>Terrain at each edge</h2>
+            <div class="edges">
+              <label>North <select name="north"><option>field</option><option>road</option><option>city</option></select></label>
+              <label>East <select name="east"><option>field</option><option>road</option><option>city</option></select></label>
+              <label>South <select name="south"><option>field</option><option>road</option><option>city</option></select></label>
+              <label>West <select name="west"><option>field</option><option>road</option><option>city</option></select></label>
+            </div>
+            <div class="details">
+              <label>Shields <input name="shields" type="number" min="0" max="3" value="0" /></label>
+              <label class="check"><input name="monastery" type="checkbox" /> Monastery</label>
+            </div>
+            <label>Connected city sides <input name="cityGroups" placeholder="Example: N,E; S" /></label>
+            <label>Connected road sides <input name="roadGroups" placeholder="Example: N,S; E,W" /></label>
+            <label>Field areas / notes <textarea name="fieldGroups" placeholder="Record disconnected fields or anything a later review should verify."></textarea></label>
+            <button type="submit">Save tile details</button>
+            <p id="save-status" aria-live="polite"></p>
+          </form>
+        </section>
+      </div>
+      <footer><span id="progress"></span><button id="export-catalog" type="button">Download catalog JSON</button></footer>
+    </main>
+    <script src="catalog.js"></script>
+  </body>
+</html>
