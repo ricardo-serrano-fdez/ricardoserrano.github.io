@@ -1,6 +1,6 @@
 {
   "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10004873229099053869093324292195817260",
-  "mode_used": "llm",
+  "mode_used": "regex",
   "predictions": {
     "ACL": 0,
     "MCL": 0,

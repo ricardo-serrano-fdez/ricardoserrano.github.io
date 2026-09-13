@@ -4,39 +4,42 @@
 ## FINDINGS:
 
 ### OSSEOUS STRUCTURES:
-Evaluated via fallback engine.
+Alignment is anatomical. No acute fracture or bone bruise. Background marrow signal is normal without aggressive lesions.
 
 ### JOINT SPACE:
-Evaluated via fallback engine.
+Joint effusion present. No Baker's cyst. Normal synovial membrane.
 
 ### MEDIAL COMPARTMENT:
-- **Medial meniscus**: Evaluated via fallback engine.
-- **Medial compartment cartilage**: Evaluated via fallback engine.
+- **Medial meniscus**: Tear present.
+- **Medial compartment cartilage**: Degenerative changes / cartilage loss consistent with medial OA.
 
 ### LATERAL COMPARTMENT:
-- **Lateral meniscus**: Evaluated via fallback engine.
-- **Lateral compartment cartilage**: Evaluated via fallback engine.
+- **Lateral meniscus**: Normal in morphology and signal without tear.
+- **Lateral compartment cartilage**: Preserved articular cartilage.
 
 ### PATELLOFEMORAL COMPARTMENT:
-- **Patellofemoral compartment cartilage**: Evaluated via fallback engine.
+- **Patellofemoral compartment cartilage**: Preserved patellofemoral articular cartilage.
 
 ### CRUCIATE LIGAMENTS:
-- **Anterior cruciate ligament (ACL)**: Evaluated via fallback engine.
-- **Posterior cruciate ligament (PCL)**: Evaluated via fallback engine.
+- **Anterior cruciate ligament (ACL)**: Normal with both bundles intact.
+- **Posterior cruciate ligament (PCL)**: Normal.
 
 ### COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
-- **Medial collateral ligament (MCL)**: Evaluated via fallback engine.
-- **Lateral collateral ligament (LCL) complex**: Evaluated via fallback engine.
+- **Medial collateral ligament (MCL)**: Normal.
+- **Lateral collateral ligament (LCL) complex**: Normal.
 - **Posterolateral corner structures**: Normal.
 
 ### EXTENSOR MECHANISM:
-Evaluated via fallback engine.
+- **Distal quadriceps tendon**: Normal without tendinosis or tear.
+- **Patella tendon**: Normal without tendinosis or tear.
+- **Medial patellofemoral ligament (MPFL) and patellar retinacula**: Normal.
+- **Patellofemoral tracking**: Normal.
 
 ### MUSCLES/TENDONS:
-Evaluated via fallback engine.
+No acute muscle strain or muscle atrophy. Visualized tendons intact.
 
 ### SOFT TISSUES:
-Evaluated via fallback engine.
+Normal surrounding soft tissues and neurovascular bundles.
 
 ---
 
