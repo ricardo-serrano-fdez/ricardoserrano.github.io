@@ -1,1 +1,3 @@
 tile_library_z-man_2014/
+__pycache__/
+*.pyc
